@@ -1,5 +1,3 @@
-﻿![](Aspose.Words.fba63b3d-7d11-4f85-a6e7-98d8ee70eec9.001.png)
-
 **Problem Statement**
 
 To build a classification methodology to predict the quality of wafer sensors based on the given training data. 
